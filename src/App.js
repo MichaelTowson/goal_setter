@@ -42,6 +42,7 @@ const App = () => {
       </section>
       <section id="goals">
         {content}
+        
         {/* {courseGoals.length > 0 && (
           <CourseGoalList
             items={courseGoals}
